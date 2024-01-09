@@ -314,6 +314,7 @@ dev.off()
 # Embeddings Based Analsysis ---------------------------------------------------
 # based on template code from Rodriguez, Spirling, Stewart and Wirsching:
 # http://alcembeddings.org/alccode
+# EMBEDDINGS AND TRANSFORMATION MATRIX NOT IN REPO- AVAILABLE AT ALC SITE
 
 # Transformation matrix 
 transform <- readRDS("../Models/fasttext_transform_arwiki_15.rds")
